@@ -7,7 +7,7 @@ a draft with app and system metadata; you can review it before posting.
 
 This repository contains support information and issue templates. The application
 source code is maintained separately. Creating this tracker does not announce a
-release; downloads will be available at [rollingclouds.dev/daysail](https://rollingclouds.dev/daysail/)
+release; downloads will be available at [daysailapp.com](https://daysailapp.com/)
 after publication is approved.
 
 Issues are public. Remove personal task text, account details and other private
