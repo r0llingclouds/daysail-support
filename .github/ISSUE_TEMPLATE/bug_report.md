@@ -1,12 +1,12 @@
 ---
 name: Report a problem
-about: Something in Docket for Mac is not working as expected
+about: Something in Daysail for Mac is not working as expected
 title: ''
 labels: ''
 assignees: ''
 ---
 
-**Docket version and build**
+**Daysail version and build**
 
 **macOS version**
 
